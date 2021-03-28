@@ -45,6 +45,7 @@ set autoread
 set autoindent
 set history=100
 set scrolloff=4
+set expandtab
 set tabstop=2
 set shiftwidth=2
 " ターミナル
